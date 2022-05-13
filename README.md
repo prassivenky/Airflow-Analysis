@@ -5,4 +5,5 @@ Pressure and subsequent velocity data collection/analysis done in an enclosed ro
 A 3-D printed set of pitot tubes were calibrated experimentally in the wind tunnel first,
 following which a portable setup was fabricated for the pitot tubes to collect data. The data was subsequently analyzed and  
 The project was aimed at optimizing ceiling fan positions for optimal airflow inside an enclosed room.
+More details are found in the project report uploaded. Please do have a look and feel free to contact me at bprassi@gmail.com to suggest improvements!
 
